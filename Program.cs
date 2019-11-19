@@ -21,9 +21,8 @@ namespace Exercicios_C_
             var i = 1; 
             
             while (i <= n) {
-                if (i % 6 == 0) {
+                if (i % 6 == 0) 
                     somatorio += i;
-                }
 
                 i++;
             }
