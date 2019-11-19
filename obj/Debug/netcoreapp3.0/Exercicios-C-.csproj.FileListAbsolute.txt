@@ -1,0 +1,11 @@
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-.deps.json
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-.runtimeconfig.json
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-.runtimeconfig.dev.json
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-.dll
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/bin/Debug/netcoreapp3.0/Exercicios-C-.pdb
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/obj/Debug/netcoreapp3.0/Exercicios-C-.csprojAssemblyReference.cache
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/obj/Debug/netcoreapp3.0/Exercicios-C-.AssemblyInfoInputs.cache
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/obj/Debug/netcoreapp3.0/Exercicios-C-.AssemblyInfo.cs
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/obj/Debug/netcoreapp3.0/Exercicios-C-.dll
+/home/s9informatica/Documentos/Projetos/S9/CSharpTreinamento/Exercicios-C-/obj/Debug/netcoreapp3.0/Exercicios-C-.pdb
