@@ -7,7 +7,7 @@ namespace Exercicios_C_
     {
         static void Main(string[] args)
         {
-            ExibirIMC(89, 1.83);            
+            ExibirIMC(89.5, 1.83);            
             
             #region "Main"
 
@@ -74,14 +74,14 @@ namespace Exercicios_C_
             #endregion
         }
 
-        static int IMC(int peso, double altura)
+        static int IMC(double peso, double altura)
         {
             var A = Math.Pow(altura, 2);
 
-            return (peso / (int)A);
+            return ((int)peso / (int)A);
         }
 
-        static void ExibirIMC(int peso, double altura)
+        static void ExibirIMC(double peso, double altura)
         {
             var imc = IMC(peso, altura);
 
